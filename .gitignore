@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# IDE folders
+.idea/
+*.iml
+
+# Virtual environments
+venv/
+env/
+
+# Ignore system files
+.DS_Store
